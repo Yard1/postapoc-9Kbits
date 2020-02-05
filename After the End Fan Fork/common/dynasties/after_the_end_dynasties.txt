@@ -6455,6 +6455,7 @@ coat_of_arms = {
 1810018 = { name="Luna" culture=norteno }
 1810019 = { name="Cortina" culture=norteno }
 1810020 = { name="Seguin" culture=norteno }
+1810021 = { name="Galeana" culture=norteno }
 
 
 1812000 = { name="Smith" culture=british }
@@ -11142,6 +11143,7 @@ coat_of_arms = {
 2031017 = { name="Saeed" culture=neomoor }
 2031018 = { name="Shar" culture=neomoor }
 2031019 = { name="Mirza" culture=neomoor }
+2031020 = { name="Jolly" culture=neomoor }
 
 2032000 = { name="Tahirovic" culture=prodnanici }
 2032001 = { name="Ahmadovic" culture=prodnanici }

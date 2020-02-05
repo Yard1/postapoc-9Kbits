@@ -1,7 +1,5 @@
-# c_magdalena_sur
-
 # County Title
-title = c_magdalena_sur
+title = c_magdalena
 
 # Settlements
 max_settlements = 3
